@@ -1,0 +1,2 @@
+# Foto
+Recuperar foto
